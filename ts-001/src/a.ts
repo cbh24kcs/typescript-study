@@ -31,3 +31,9 @@ let arr: Array<Person> = [
 let x = 3;
 
 // x = '4'
+
+// ES6 --- 2015
+// ...
+// ES2022
+
+export default {}
